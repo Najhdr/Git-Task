@@ -1,6 +1,6 @@
 # Git-Task
 
-# What is Git Hub?
+# Different stages of Git:
 
 
 
