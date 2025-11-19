@@ -1,8 +1,10 @@
-# What is Git?
+## What is Git?
 
-## Git is distributed version control software system that is capable of managing version of source code or data. Often used to control source code by programmers who are devloping software collaboratively.
+```
+ Git is distributed version control software system that is capable of managing version of source code or data. Often used to control source code by programmers who are devloping software collaboratively.
 
-## Git tracks changes by taking snapshots of your project files at different points in time, allowing you to revisit or compare versions whenever needed. Developers make changes locally, then commit those changes as discrete units with descriptive messages. These commits form a timeline of the project’s development.## 
+ Git tracks changes by taking snapshots of your project files at different points in time, allowing you to revisit or compare versions whenever needed. Developers make changes locally, then commit those changes as discrete units with descriptive messages. These commits form a timeline of the project’s development.
+ ```
 
 ## Different stages of Git:
 
